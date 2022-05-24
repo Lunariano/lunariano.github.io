@@ -2,14 +2,14 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'lunariano.discoporto.com'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: lunariano.discoporto.com
 
 # Title of the Site
 title: What A Theme
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Lunariano - DJ & Pordutor de Progressive Trance
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -26,8 +26,8 @@ email: thedevslot@gmail.com
 facebook_username: thedevslot
 twitter_username: thedevslot
 instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
+linkedin_username:
+github_username:
 youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
 reddit_username: /
 behance_username: /
